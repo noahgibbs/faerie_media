@@ -1,0 +1,123 @@
+These are old notes from worldbuilding ideas-in-progress.
+
+I explored the idea of an underground world full of crystal light with
+different effects. Over time, that idea turned into The Green, and
+other ideas, about the Faerie world.
+
+## The Empire of Shards
+
+I love the idea of playing with memory and external influences on
+characters, and on impermanence. As part of that, I like the idea of
+caverns lit by phosphorescent crystals of unknown origin (Shanna
+suggested crystal light, I kind of ran with it.) Different colors of
+crystals would have different effects, including some (green?) that
+would cause you to lose your memory.
+
+I like the idea of different caverns with varying types of crystals
+having different social systems - a mostly green-lit cavern full of
+memory-loss crystals might have a small amount of "prime" non-green
+real estate that the most established cavedwellers live in, and how
+does everybody else get on? Do people change their roles, and even
+their names, regularly, if they're frequently memory-wiped? I like the
+thought of people retaining "aptitudes" where they were good at
+something, but they may have no idea why they're good at it, or when
+they were good. The possibilities if people can remember something
+incorrectly but be convinced it's right also seem lovely.
+
+This also helps setting. I can play with different themes of varying
+seriousness or silliness in different caverns with different
+setups. Zany with very little continuity? Great, lots of food and
+resources but lots of memory-loss crystals. Dark and gritty? Sure,
+varying levels of memory loss but tight on food and resources so you
+have a small group in the center that is nasty and sets the gritty
+tone.  With a different group in power, everything else changes
+because so much of the tone has to be set by whoever *doesn't* lose
+their memory, especially if (as will normally happen) they control a
+lot of the resources.
+
+I'm trying to figure out whether I like the idea of some kind of
+"blockers" for memory-loss crystal radiation. If so, it should be rare
+and expensive - if everybody wears cheap, durable special glasses then
+the crystals are mostly a non-event. But having a few people who can
+walk with impunity through the "bad" areas might be interesting for
+tone reasons.
+
+Though you know what would be *way* more thematic? Enclosed litters
+carried by servants who regularly lose their memory while their
+masters stay in the box to be safe. Have to decide how hard the
+radiation is to block, which ties into whether you can pass through
+"bad" areas reasonably.
+
+I also like the idea of other crystal effects. Think of "sparky"
+crystals that make people manic and dangerous but inspired, for
+instance. This also gives room for various corrupting effects, which
+would also change tone a lot. Imagine "crystal soldiers" wanting to
+drag people back to the same place that corrupted them. Though that's
+been done more and better, so it's less enticing as a theme. Still,
+might be a fun occasional variation.
+
+## Memory and Shards
+
+With these crystal-lit caverns and no easy way to cross them, you wind
+up with a lot of tiny areas cut off from each other. Easy to separate,
+impossible to unify. There might be minor communication -- shards near
+each other may have whisper channels or tap codes, say.
+
+I like the thought of huge, intense channels of green crystals, which
+would mean certain major memory loss for anybody that crossed it, as
+the central connections between these islands, these small areas,
+which I've been calling shards.
+
+You'd have a few people that intentionally wandered away, and a few
+constant wanderers with no consistent memory. But mostly you'd have
+little islands with only a vague and inaccurate idea of what other
+areas consisted of.
+
+Would language be immune to the memory loss effect, or could long
+exposure eventually cause even that to change or be lost? You need a
+certain amount in common or communication breaks down utterly.
+
+
+
+## The Deep Lands
+
+For some time, I've wanted to put together something loose and
+thematic around (in no particular order) an underground, constrained
+setting with some amount of "mad-sciency" magic.
+
+Influences include Avernum, Fallen London and Girl Genius. I like the
+idea of "deep madness" - of certain caverns being especially awful and
+slowly corrupting their inhabitants, while a few settlements are big
+and thriving, but have to stay away from the nasty bits.
+
+I also want to start putting together little games. I've written
+Pixiurge to try and make that happen. So this becomes a sort of simple
+Pixiurge playground as well. That also enourages keeping the theme
+loose - there are many experiments that don't necessarily fit a tight,
+specific, coherent theme :-)
+
+
+## Brainstorming
+
+Oz: Nonestic ocean, Rinkitink (character/kingdom); Nonestica map:
+http://oz.wikia.com/wiki/Maps_of_Oz?file=Nonestica.jpg
+
+## Fairy Sources
+
+http://www.artpassions.net/rackham/rackham.html
+http://artpassions.net/fairies/fairy.html
+https://en.wikipedia.org/wiki/Goblin_Market
+
+## Free Art Assets
+
+publicdomainpictures - .net? Something like that.
+
+https://wptavern.com/13-sources-for-free-public-domain-and-cc0-licensed-images
+Kenney.nl - CC0-licensed giant asset packs, fee to download ($25 for 30k, *not* bad), often also on OpenGameArt
+OpenGameArt.org
+Opengamegraphics.com
+Gameart2d.com - free/paid hybrid
+GlitchtheGame.com - visually distinctive platformer-pov game made all art free after shutdown (SWF/FLA)
+Lostgarden.com - SpaceCute and TinyWorld, CC 3.0-Attribution
+Subtlepatterns.com
+openclipart.org
