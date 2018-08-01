@@ -1,0 +1,28 @@
+Mexica is a plot generator. Probably worth further investigation.
+
+nn is a narrative generator, intended for Inform/TADS-style text games.
+
+Paper on hooking Mexica up to (parts of) nn for output: https://nickm.com/if/mexica-nn_ijwcc08.pdf
+
+The paper models (as of page 8) every nn (narrative) event specifically. Which is odd, because it appears to have a nested structure so that you could tell different events with
+different levels of importance - you'd expect the opposing of one character to another to normally be described in a single line, for instance.
+
+Need to further research Mexica, which seems by far the more interesting of the two.
+
+References to chase down:
+
+Pérez y Pérez, R. & Sharples, M. (2004) Three Computer-Based Models of Storytelling:
+BRUTUS, MINSTREL and MEXICA. Knowledge Based Systems Journal. Vol. 17, number
+1, pp. 15-29.  (available easily online)
+
+
+
+Pérez y Pérez, R. & Sharples, M. (2001) MEXICA: a computer model of a cognitive
+account of creative writing. Journal of Experimental and Theoretical Artificial Intelligence.
+Volume 13, number 2, pp. 119-139
+
+Pérez y Pérez, R. (2007). Employing Emotions to Drive Plot Generation in a ComputerBased
+Storyteller. Cognitive Systems Research. Vol. 8, number 2, pp. 89-109.
+
+
+Turner S R, MINSTREL: A computer model of creativity and storytelling, PhD Dissertation, University of California LA, 1993.

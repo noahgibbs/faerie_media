@@ -1,0 +1,140 @@
+Reference: https://en.wikipedia.org/wiki/Motif_(folkloristics)
+
+Thompson's Motif index:
+
+A. Mythological motifs
+A0-A99. Creator
+A21 Creator from above
+A21.1. Male and female creators
+A100-A499 Gods
+A500-A599 Demigods and Culture Heroes
+A500-A599 Cosmogony and cosmology
+A900-A999 Topological
+A1000-A1099 World calamities
+A1100-A1199 Establishment of natural order
+A1100-A1699 Creation and ordering of human life
+A1411 Theft of light
+A1415 Theft of fire
+A1700-A1799 Creation of animal life
+A2200-A2599 Animal characteristics
+A2600-A2699 Origins of trees and plants
+B. Animals
+B0-B99 Mythical animals
+B100-B199 Magic animals
+B100-B119 Treasure animals
+B120-B169 Animals with magic wisdom
+B170-B199 Other magic animals
+B200-B299 Animals with human traits
+B300-B599 Friendly animals
+B300-B349 Helpful animals―general
+B350-B399 Grateful Animals
+B400-B499 Kinds of helpful animals
+B500-B599 Services of helpful animals
+B600-B699 Marriage of person to animal
+B700-B799 Fanciful traits of animals
+C. Tabu
+C0-C99 Tabu connected with supernatural beings
+C100-C199 Sex tabu
+C200-C299 Eating and drinking tabu
+C300-C399 Looking tabu
+C400-C499 Speaking tabu
+C900-C999 Punishment for breaking tabu
+C 961.1 Transformation to pillar of salt for breaking tabu
+D. Magic
+D0-D699 Transformation
+D10-D99 Transformation of man to different man
+D100-D199 Transformation: man to animal
+D113.1. 1 Werewolf
+D200-D299 Transformation: man to object
+D300-D399 Transformation: animals to person
+D361.1 Swan maiden
+D400-D499 Other forms of transformation
+D450-D499 Transformation: object to object
+D500-D599 Means of transformation
+D600-D699 Miscellaneous transformation incidents
+D700-D799 Repeated transformation
+D732 Loathly lady
+D800-D1699 Magic Objects
+D800-D899 Ownership of magic objects
+D900-D1299 Kinds of magic objects
+D990—D1029. Magic bodily members
+D1080 Magic weapons
+D1081 Magic swords
+D1081.1 Sword of magic origin
+D1600—D1699 Characteristics of magic objects
+D1700—2199 Magic Powers and Manifestations
+D1710—D1799 Manifestations of magic power
+D1711 Magician
+D1719 Possession of magic powers — miscellaneous
+D1719.5 Magic power of a fairy
+D1719.6 Magic power of a Holy Cross
+D1720 Acquisition of magic powers
+D1740 Loss of magic powers
+D 1761 Magic results produced by wishing
+D1800—D2199 Possession and means of employment of magic
+D1800—D1949 Lasting magic qualities
+D1830 Magic strength
+D1831 Magic strength resides in hair
+D1950—D2049 Magic characteristics
+D1960 Magic sleep
+D1960.2 Kyffhäuser or King asleep in mountain
+D2050—D2099 Destructive magic powers
+D2100—D2199 Other manifestations of magic power
+D2100 Magic wealth
+E. The Dead
+E0-E199 Resuscitation
+E200-E599 Ghosts and other revenants
+E600-E699 Reincarnation
+E700-E799
+F. Marvels
+F0-F199 Otherworldly journeys
+F200-F699 Marvelous creatures
+F700-F899 Extraordinary places and things
+G. Ogres (and Satan)
+G10-G399 Kinds of ogres
+G100-G199 Giant ogres
+G200-G299 Witches
+G300-G399 Other ogres
+G400-G499 Falling into ogre's power
+G500-G599 Ogre defeated
+H. Tests
+H0-H199 Identity tests: Recognition
+H300-H499 Marriage tests
+H500-H899 Tests of cleverness
+H900-H1199 Tests of prowess: Tasks
+H1200-H1399 Tests of prowess: Quests
+J. The Wise and the Foolish
+J0-J199 Acquisition and possession of wisdom/knowledge
+J200-J1099 Wise and unwise conduct
+J1100-J1699 Cleverness
+J1700-J2799 Fools (and other unwise persons)
+K. Deceptions
+K0-K99 Contests Won by Deception
+K100-K299 Deceptive Bargains
+K300-K499 Thefts and Cheats
+K500-K699 Escape by Deception
+K700-K799 Capture by Deception
+K800-K999 Fatal Deception
+K1000-K1199 Deception into Self-Injury
+K1200-K1299 Deception into Humiliating Position
+K1300-K1399 Seduction or Deceptive Marriage
+K1400-K1499 Dupe's Property Destroyed
+K1400-K1599 Deceptions Connected with Adultery
+K1600-K1699 Deceiver Falls into own Trap
+K1700-K1799 Deception through Bluffing
+K1800-K1899 Deceptions by Disguise or Illusion
+K1900-K1999 Impostures
+K2100-K2199 False Accusations
+L. Reversal of Fortune
+M. Ordaining the Future
+N. Chance and Fate
+P. Society
+Q. Rewards and Punishment
+R. Captives and Fugitives
+S. Unusual Cruelty
+T. Sex
+U. The Nature of Life
+V. Religion
+W. Traits of Character
+X. Humor
+Z. Miscellaneous Groups of Motifs

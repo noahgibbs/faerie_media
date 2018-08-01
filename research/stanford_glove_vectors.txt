@@ -1,0 +1,6 @@
+For determining what words co-occur with other words, as a proxy for meaning.
+
+Downloadable database (public domain)
+
+https://nlp.stanford.edu/projects/glove/
+https://nlp.stanford.edu/pubs/glove.pdf
