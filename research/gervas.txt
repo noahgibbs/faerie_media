@@ -1,0 +1,24 @@
+
+Pablo Gervas, Propp's Morphology of the Folk Tale as a Grammar for Generation:
+Simple description of problems related to the original theory/book not really being for computer generation. It's just not that specifically spelled out. Sure.
+
+Pablo Gervas, Reviewing Propp's Story Generation Procedure in the Light of Computational Creativity:
+http://nil.fdi.ucm.es/sites/default/files/PropperAISB2014_CRC.pdf
+This paper is mostly about how you need to pair up some events and otherwise match up later events with earlier events.
+
+test by donor                          difficult task
+hero reaction                          branding
+acquisition magical agent      victory
+villainy / lack                         task resolved
+hero dispatched                     trigger resolved
+begin counteraction               return
+acquisition magical agent      hero pursued
+departure                                rescue from pursuit
+test by donor                          unrecognised arrival
+hero reaction                          unfounded claims
+acquisition magical agent      false hero exposed
+transfer                                  transfiguration
+trigger resolved                     branding
+unrecognised arrival              villain punished
+unfounded claims                 hero marries
+struggle
