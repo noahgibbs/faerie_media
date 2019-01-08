@@ -1,0 +1,11 @@
+
+What's the dynamic, or the point?
+
+If this was a short story, what would the structure be?
+
+Possible: training, in ways that seem pointless, because the point isn't what it seems. Training in weapons with odd bits of technique: why does it matter more how one is poised to swing the sword than whether one is accurate? Why have captains use a light rapier while having trolls with giant thick swords or clubs? "Their frame is different," etc., used to hide the duality between fighting and fashion.
+
+Have the gameplay support this: multiple skills at each level that may be trained separately, but the obvious valuable ones ("arm strength") are treated as nearly useless, while some odd ones ("maintaining posture") are treated as the necessary, gating skills without which one may not advance.
+
+"A Dark Room"-style wait-and-click events? MUD-style training? I'd more favor the latter... Maybe until you gain upgrades to skip that game? So like Universal Paperclips, you improve at a game until you can skip it completely.
+
